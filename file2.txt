@@ -1,1 +1,2 @@
 different single line of text
+new single line of text
